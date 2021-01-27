@@ -1,2 +1,2 @@
 # resalevalue-predictor-
-Create a best fit line for the given data set and then predict the value of other Second hand cars 
+Create a best fit line using Scikit-Learn for the given Second Hand Cars data and then predict the resale value.  
